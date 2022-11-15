@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Nandan",
   "license": "ISC",
@@ -15,9 +16,9 @@
     "crypto-js": "^3.1.9-1",
     "express": "^4.15.2",
     "firebase-admin": "^4.1.3",
-    "json-server": "^0.9.6",
+    "json-server": "^0.17.1",
     "node-localstorage": "^1.3.0",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-google-oauth": "^1.0.0",
     "passport-oauth": "^1.0.0",
     "qr-image": "^3.2.0",
